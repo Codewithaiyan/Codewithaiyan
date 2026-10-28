@@ -3,7 +3,6 @@
 DevOps / Cloud engineer building on **AWS, Kubernetes and Terraform**. I like automating the boring parts of operations: observability, remediation, on-call.
 
 🔍 **Open to:** Junior DevOps · Cloud · SRE · Platform roles (Hyderabad / Remote-India)
-📫 **Reach me:** ahmedaiyan113@gmail.com · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
 
 ---
 
@@ -33,3 +32,6 @@ DevOps / Cloud engineer building on **AWS, Kubernetes and Terraform**. I like au
 #### 📌 Currently
 - Writing build-in-public posts on AWS automation
 - Previously: DevOps intern @ BuildOps Realty
+
+📫 **Reach me:** ahmedaiyan113@gmail.com
+[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
