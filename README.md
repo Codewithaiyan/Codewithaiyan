@@ -33,6 +33,5 @@ DevOps / Cloud engineer building on **AWS, Kubernetes and Terraform**. I like au
 - Writing build-in-public posts on AWS automation
 - Previously: DevOps intern @ BuildOps Realty
 
-📫 **Reach me:** ahmedaiyan113@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+📫 **Reach me:** 
+ahmedaiyan113@gmail.com • [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
