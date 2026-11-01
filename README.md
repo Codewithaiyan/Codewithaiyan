@@ -15,6 +15,10 @@ DevOps / Cloud engineer building on **AWS, Kubernetes and Terraform**. I like au
 | [**LLMesh**](https://github.com/Codewithaiyan/LLMesh) | K8s-native load balancer for LLM inference | Kubernetes, Go/Python |
 | [**VibeGuard**](https://github.com/Codewithaiyan/VibeGuard) | Security scanner for AI-generated code | Python |
 
+[![Agensi](https://img.shields.io/badge/Agensi-reforge%20skill-2563eb)](https://www.agensi.io/skills/reforge)
+
+> **Also available as an agent skill on [Agensi](https://www.agensi.io/skills/reforge).** The skill teaches your agent the full reforge workflow (scan → score → plan → fix → commit). Install reforge-mcp first, then add the skill.
+
 #### ⚙️ Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
