@@ -12,7 +12,6 @@ DevOps / Cloud engineer building on **AWS, Kubernetes and Terraform**. I like au
 |---|---|---|
 | [**ObserveAI**](https://github.com/Codewithaiyan/ObserveAI) | Kubernetes observability platform | K8s, Prometheus, Elasticsearch, Python |
 | [**AWS Auto-Remediation Bot**](https://github.com/Codewithaiyan/REPO-NAME) | Detects and auto-fixes AWS misconfigurations | Config, EventBridge, Lambda, SNS, DynamoDB, Terraform |
-| [**runbook-pilot**](https://github.com/Codewithaiyan/runbook-pilot) | AI agent that executes on-call runbooks | Python, LLMs |
 | [**LLMesh**](https://github.com/Codewithaiyan/LLMesh) | K8s-native load balancer for LLM inference | Kubernetes, Go/Python |
 | [**VibeGuard**](https://github.com/Codewithaiyan/VibeGuard) | Security scanner for AI-generated code | Python |
 
