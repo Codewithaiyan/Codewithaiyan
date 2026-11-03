@@ -40,4 +40,4 @@ DevOps / Cloud engineer building on **AWS, Kubernetes and Terraform**. I like au
 
 📫 **Reach me:** 
 
-ahmedaiyan113@gmail.com • [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+ahmedaiyan113@gmail.com • [LinkedIn](https://www.linkedin.com/in/aiyanahmed113/)
