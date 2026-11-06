@@ -18,7 +18,7 @@ DevOps / Cloud engineer building on **AWS, Kubernetes and Terraform**. I like au
 
 [![Agensi](https://img.shields.io/badge/Agensi-reforge%20skill-2563eb)](https://www.agensi.io/skills/reforge)
 
-> **Also available as an agent skill on [Agensi](https://www.agensi.io/skills/reforge).** The skill teaches your agent the full reforge workflow (scan → score → plan → fix → commit). Install reforge-mcp first, then add the skill.
+> **[Agensi](https://www.agensi.io/skills/reforge).** This skill teaches your agent the full reforge workflow (scan → score → plan → fix → commit). Install reforge-mcp first, then add the skill.
 
 
 #### ⚙️ Stack
